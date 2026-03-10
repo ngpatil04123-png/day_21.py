@@ -1,0 +1,7 @@
+ - Function that returns the sum of numbers in a list.
+ - Function that takes two numbers and returns the largest number.
+ - Function that takes two numbers and returns the smallest number.
+ - Function that counts vowels in a given string.
+ - Function that checks whether a string is a palindrome.
+ - Factorial Using Function.
+ - Reversing the string using the function. 
